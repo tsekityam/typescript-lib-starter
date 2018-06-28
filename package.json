@@ -81,7 +81,7 @@
     "@types/node": "10.3.6",
     "@types/prettier": "1.13.1",
     "@types/uglifyjs-webpack-plugin": "1.1.0",
-    "@types/webpack": "4.4.3",
+    "@types/webpack": "4.4.4",
     "awesome-typescript-loader": "5.2.0",
     "commitizen": "2.10.1",
     "cross-var": "1.1.0",
